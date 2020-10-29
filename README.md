@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Welcome](https://media.giphy.com/media/1wX5TJZPqVw3HhyDYn/giphy.gif)
-
+<img src="https://media.giphy.com/media/1wX5TJZPqVw3HhyDYn/giphy.gif" width="40" height="40" />
 
 <!--
 **applegreengrape/applegreengrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
