@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/1wX5TJZPqVw3HhyDYn/giphy.gif" width="50" />
+
+### Hi there 👋
 
 👩🏻‍💻 latest projects I have been working on:
 
