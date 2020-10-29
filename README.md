@@ -5,6 +5,7 @@
 👩🏻‍💻 latest projects I have been working on:
 
 - [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io
+- [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
 - [tf-provider-demo](https://github.com/applegreengrape/tf-provider-demo): built a custom terraform provider for your own API
 
 <!--
