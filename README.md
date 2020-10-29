@@ -1,8 +1,10 @@
-<img src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" width="40" height="40" /> 
+<img src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /> 
 
 👩🏻‍💻 latest projects I have been working on:
-- <img src="https://media.giphy.com/media/1wX5TJZPqVw3HhyDYn/giphy.gif" width="40" height="40" /> 
-[finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal) 
+<img src="https://media.giphy.com/media/1wX5TJZPqVw3HhyDYn/giphy.gif" width="40" height="40" />  
+
+[finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal)
+
 
 <!--
 **applegreengrape/applegreengrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
