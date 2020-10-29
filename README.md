@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Welcome](https://giphy.com/gifs/1wX5TJZPqVw3HhyDYn/html5)
+
+
 <!--
 **applegreengrape/applegreengrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
