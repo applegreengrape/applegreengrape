@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=200 />
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 
 - [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io
 - [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
