@@ -1,7 +1,4 @@
-<img src="https://media.giphy.com/media/KmEzemwIqhuF2/giphy.gif" width=200 />
-
-👋 你好:
-![alt text](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=200 />
 
 - 🔭 I’m currently working on:
 
