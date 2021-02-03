@@ -1,12 +1,12 @@
 <table style="border: 1px solid transparent">
   <tr>
     <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th>
-    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th> 
+    <th><img src="https://media.giphy.com/media/KmEzemwIqhuF2/giphy.gif" width=150 /></th> 
     <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th>
   </tr>
 </table>
 
-👩🏻‍💻 latest projects I have been working on:
+- 🔭 I’m currently working on:
 
 - [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io
 - [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
