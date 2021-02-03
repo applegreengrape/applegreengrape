@@ -1,10 +1,8 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 />
-
-<table style="width:100%">
+<table style="border: 1px solid transparent">
   <tr>
-    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th>
-    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th> 
-    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th>
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th>
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th> 
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /></th>
   </tr>
 </table>
 
