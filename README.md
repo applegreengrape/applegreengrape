@@ -9,7 +9,7 @@
 🌱 I’m currently learning Next.js
 - [📇 company profile 🇨🇳](https://github.com/applegreengrape/bizInfo): a Nest.js company profile search page for SSE (Shanghai Stock Exchange) listed companies. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1355233872896778242?s=20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=applegreengrape)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=applegreengrape&show_icons=true&theme=radical
 
 <!--
 **applegreengrape/applegreengrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
