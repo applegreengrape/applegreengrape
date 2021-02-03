@@ -1,5 +1,12 @@
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 />
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=150 /> 
+
+<table style="width:100%">
+  <tr>
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th>
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th> 
+    <th><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=80 /></th>
+  </tr>
+</table>
 
 👩🏻‍💻 latest projects I have been working on:
 
