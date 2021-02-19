@@ -9,7 +9,7 @@
 🌱 I’m currently learning:
 - Next.js 👉 [📇 company profile 🇨🇳](https://github.com/applegreengrape/bizInfo): a Nest.js company profile search page for SSE (Shanghai Stock Exchange) listed companies. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1355233872896778242?s=20)
 
-- Typescript + Lambda + Step functions 👉 [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). I have kept a learning log from day-01 to day-♾️. wish me good luck 🤞🏻
+- Typescript + SAM + Step functions 👉 [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). It is a learning log from day-01(install typescript) to day-♾️(a cool aws step functions). wish me good luck 🤞🏻
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=applegreengrape&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
