@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 
 - [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io
-- [📿 Red Thread](https://www.notion.so/Red-Thread-fb0df3976778418eb7289b8207f906d3): An alternative dating app to connect people through mutual friends and network.
+- [Red Thread](https://www.notion.so/Red-Thread-fb0df3976778418eb7289b8207f906d3): 📿 An alternative dating app to connect people through mutual friends and network.
 - [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
 - [tf-provider-demo](https://github.com/applegreengrape/tf-provider-demo): built a custom terraform provider for your own API
 
