@@ -14,6 +14,7 @@
 
 - Typescript + SAM + Step functions 👉 [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). It is a learning log from day-01(install typescript) to day-♾️(a cool aws step functions). wish me good luck 🤞🏻
 
+<!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=applegreengrape&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
