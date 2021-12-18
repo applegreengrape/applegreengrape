@@ -1,4 +1,11 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width=200 />
+<p align="center">
+ <img src="https://media1.giphy.com/media/0dv7ntbmS8tj4aPT15/giphy.gif" width=200  />
+</p>
+
+🌱 I’m currently learning:
+
+- [eBPF](https://ebpf.io/)
+- [k8s-tha-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 🔭 I’m currently working on:
 
@@ -8,11 +15,8 @@
 - [Red Thread](https://www.notion.so/Red-Thread-fb0df3976778418eb7289b8207f906d3): 📿 An alternative dating app to connect people through mutual friends and network.
 - [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
 - [tf-provider-demo](https://github.com/applegreengrape/tf-provider-demo): built a custom terraform provider for your own API
-
-🌱 I’m currently learning:
-- Next.js 👉 [📇 company profile 🇨🇳](https://github.com/applegreengrape/bizInfo): a Nest.js company profile search page for SSE (Shanghai Stock Exchange) listed companies. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1355233872896778242?s=20)
-
-- Typescript + SAM + Step functions 👉 [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). It is a learning log from day-01(install typescript) to day-♾️(a cool aws step functions). wish me good luck 🤞🏻
+- [📇 company profile 🇨🇳](https://github.com/applegreengrape/bizInfo): a Nest.js company profile search page for SSE (Shanghai Stock Exchange) listed companies. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1355233872896778242?s=20)
+- [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). It is a learning log from day-01(install typescript) to day-♾️(a cool aws step functions).
 
 <!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=applegreengrape&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
