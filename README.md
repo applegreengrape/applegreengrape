@@ -1,6 +1,5 @@
-<p align="center">
+
  <img src="https://media1.giphy.com/media/0dv7ntbmS8tj4aPT15/giphy.gif" width=200  />
-</p>
 
 🌱 I’m currently learning:
 
