@@ -8,11 +8,10 @@
 
 🔭 I’m currently working on:
 
-- [neo4j-go-api](https://github.com/applegreengrape/red-thread-neo4j): part of the red thread project, a go api with neo4j-go-driver 
+- [timeout-checker⏱️](https://github.com/applegreengrape/timeout-checker): A tiny command line tool to start a simple wait and response api to test retry& timeout. Yep! Everyone loves retry and timeout test 🤠
+- [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io stock portfolio view
 - [aws-sa-pro-quiz](https://github.com/applegreengrape/aws-prep-true-or-false): a true of false quiz site for aws sa pro exam
-- [finnhub-terminal](https://github.com/applegreengrape/finnhub-terminal): a terminal dashboard for finnhub.io
-- [Red Thread](https://www.notion.so/Red-Thread-fb0df3976778418eb7289b8207f906d3): 📿 An alternative dating app to connect people through mutual friends and network.
-- [cherry-picker🍒](https://github.com/applegreengrape/cherry-picker): an interactive command-line tool to screen stocks
+- [Red Thread](https://www.notion.so/Red-Thread-fb0df3976778418eb7289b8207f906d3): 📿 An alternative dating app to connect people through mutual friends and network. Built with Expo Framework, React, typescript and firebase. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1379542311726628872). And touch it up with a bit [neo4j](https://twitter.com/applegreengrap2/status/1390060511367155716)
 - [tf-provider-demo](https://github.com/applegreengrape/tf-provider-demo): built a custom terraform provider for your own API
 - [📇 company profile 🇨🇳](https://github.com/applegreengrape/bizInfo): a Nest.js company profile search page for SSE (Shanghai Stock Exchange) listed companies. You can follow the progress over this [tweet thread](https://twitter.com/applegreengrap2/status/1355233872896778242?s=20)
 - [🌵 serverless-ts-log 🚀](https://github.com/applegreengrape/serverless-ts-log). It is a learning log from day-01(install typescript) to day-♾️(a cool aws step functions).
