@@ -4,7 +4,7 @@
 🌱 I’m currently learning:
 
 - [eBPF](https://ebpf.io/)
-- [k8s-tha-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [k8s-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 🔭 I’m currently working on:
 
